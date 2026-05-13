@@ -2,6 +2,28 @@
 
 This repository contains the data and supporting materials associated with my BSc Computer Science thesis.
 
+## Thesis
+
+Read the full thesis here:
+
+[Psychologists’ Views on AI-Supported Mental-Health Tools: An interview study](./AI_Mental_Health_Thesis.pdf)
+
+## Overview
+
+This thesis explores psychologists’ perspectives on AI-supported mental-health tools through qualitative interviews and thematic analysis.
+
+The study focuses on how mental health professionals perceive the opportunities, risks, ethical considerations, and practical applications of AI within therapeutic and clinical contexts.
+
+## Technologies & Methods
+
+- Python
+- Qualitative Data Analysis
+- ATLAS.ti
+- Interview Transcription
+- Data Cleaning
+- Thematic Analysis
+- Git/GitHub
+
 ## Repository contents
 
 ### `transcripts/`
